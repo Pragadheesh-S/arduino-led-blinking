@@ -39,5 +39,5 @@ This project helps understand the fundamentals of:
 text
 Arduino Uno
 
-Digital Pin 8 ──── 220Ω ────►|──── GND
-                              LED
+Digital Pin 8 ──── 220Ω ────►|LED|──── GND
+                              
